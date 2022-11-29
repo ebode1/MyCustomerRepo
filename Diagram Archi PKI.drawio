@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T17:38:01.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gZEzmLldePijcnW8C1jK" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T17:38:54.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="adBy-qFsO_rlhZa2T-IU" version="20.6.0" type="github">
   <diagram id="BUpwUjb0ULaxSuZtzYWh" name="Page-1">
-    <mxGraphModel dx="3411" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3411" dy="2013" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,13 +287,16 @@
           <mxGeometry x="840" y="-21.000000000000007" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4JeH47GUTkeg_0I-WwDM-187" value="10.64.0.0/22" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;labelBackgroundColor=none;labelBorderColor=#000000;" vertex="1" parent="4JeH47GUTkeg_0I-WwDM-185">
-          <mxGeometry x="69" y="24" width="701" height="161.10000000000002" as="geometry" />
+          <mxGeometry x="69" y="24" width="701" height="209.5" as="geometry" />
         </mxCell>
         <mxCell id="4JeH47GUTkeg_0I-WwDM-264" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="4JeH47GUTkeg_0I-WwDM-187">
           <mxGeometry x="574" y="23.950000000000003" width="117.5" height="104.1" as="geometry" />
         </mxCell>
         <mxCell id="4JeH47GUTkeg_0I-WwDM-263" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;labelBackgroundColor=none;labelBorderColor=#000000;strokeColor=default;strokeWidth=0;fontSize=12;fontColor=#000000;" vertex="1" parent="4JeH47GUTkeg_0I-WwDM-187">
           <mxGeometry x="611.25" y="60.55" width="43" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4JeH47GUTkeg_0I-WwDM-268" value="DC de AWS à rajouter" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="4JeH47GUTkeg_0I-WwDM-187">
+          <mxGeometry x="159" y="10" width="154" height="102" as="geometry" />
         </mxCell>
         <mxCell id="4JeH47GUTkeg_0I-WwDM-198" value="VPN Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_gateway;labelBackgroundColor=none;labelBorderColor=#000000;strokeWidth=0;" vertex="1" parent="4JeH47GUTkeg_0I-WwDM-185">
           <mxGeometry x="11.000000000000021" y="191" width="38" height="38" as="geometry" />
