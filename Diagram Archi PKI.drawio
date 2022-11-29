@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T15:35:51.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="s7B4XdLiY6L2E54012ga" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T15:36:45.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4hi5KUJynx1UHSTCxpJL" version="20.6.0" type="github">
   <diagram id="BUpwUjb0ULaxSuZtzYWh" name="Page-1">
     <mxGraphModel dx="3495" dy="1949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,9 +51,6 @@
         <mxCell id="0XBWgx2gWtxwsbYNTwGq-21" value="&lt;b&gt;WS2012&lt;/b&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server" parent="1" vertex="1">
           <mxGeometry x="489" y="-17" width="42.9" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="4JeH47GUTkeg_0I-WwDM-157" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="0XBWgx2gWtxwsbYNTwGq-23" target="0XBWgx2gWtxwsbYNTwGq-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0XBWgx2gWtxwsbYNTwGq-23" value="&lt;b style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;WS2008&lt;/b&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server_2.svg;" parent="1" vertex="1">
           <mxGeometry x="574.8" y="-16" width="43.2" height="54" as="geometry" />
         </mxCell>
@@ -98,9 +95,6 @@
         </mxCell>
         <mxCell id="0XBWgx2gWtxwsbYNTwGq-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698401-icon-137-document-certificate-128.png" parent="1" vertex="1">
           <mxGeometry x="825" y="52.5" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0XBWgx2gWtxwsbYNTwGq-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698401-icon-137-document-certificate-128.png" parent="1" vertex="1">
-          <mxGeometry x="547" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XBWgx2gWtxwsbYNTwGq-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698401-icon-137-document-certificate-128.png" parent="1" vertex="1">
           <mxGeometry x="461.15" width="40" height="40" as="geometry" />
@@ -225,9 +219,6 @@
         </mxCell>
         <mxCell id="4JeH47GUTkeg_0I-WwDM-151" value="&lt;font color=&quot;#000000&quot;&gt;DNS 53&lt;br&gt;Kerberos Password (v5) 464&lt;br&gt;LDAP 389&lt;br&gt;LDAPS 636&lt;br&gt;LDAPS GC 3268&lt;br&gt;LDAPS GC 3269&lt;br&gt;Kerberos 88&lt;br&gt;Netbios Session 137&lt;br&gt;Netbios Datagram 138&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="205.9799999999999" y="356" as="geometry" />
-        </mxCell>
-        <mxCell id="4JeH47GUTkeg_0I-WwDM-156" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="0XBWgx2gWtxwsbYNTwGq-52" target="0XBWgx2gWtxwsbYNTwGq-52">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4JeH47GUTkeg_0I-WwDM-163" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=0.53;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0XBWgx2gWtxwsbYNTwGq-16" target="0XBWgx2gWtxwsbYNTwGq-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -370,6 +361,9 @@
           <mxGeometry x="-0.7885" relative="1" as="geometry">
             <mxPoint x="108" y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4JeH47GUTkeg_0I-WwDM-259" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698401-icon-137-document-certificate-128.png" vertex="1" parent="1">
+          <mxGeometry x="553" y="2.08" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
