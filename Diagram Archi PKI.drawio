@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T10:27:16.592Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Bjt0oyCJvaDpHF30sO2Z" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T10:27:34.113Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="KcThzQdtJ5p_QcH4IeOG" type="github">
   <diagram id="BUpwUjb0ULaxSuZtzYWh" name="Page-1">
     <mxGraphModel dx="3335" dy="842" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,12 +202,6 @@
         </mxCell>
         <mxCell id="0XBWgx2gWtxwsbYNTwGq-101" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group;labelBackgroundColor=#1A1A1A;strokeWidth=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="45" y="138" width="40" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="0XBWgx2gWtxwsbYNTwGq-102" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419" y="368" as="sourcePoint" />
-            <mxPoint x="469" y="318" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
